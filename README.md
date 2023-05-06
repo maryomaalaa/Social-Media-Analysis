@@ -88,3 +88,14 @@
     
 
 
+## **Instagram Dashboard**
+    
+![Instagram Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
+
+## **Tiktok Dashboard**
+    
+![Tiktok Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/TikTokDashboard.png)
+
+## **Youtube Dashboard**
+    
+![Youtube Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/YoutubeDashBoardpng.png)
