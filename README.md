@@ -89,7 +89,7 @@
 
 
 ## **Dashboards**
-    -Instagram
+    -**Instagram**
     
 ![Instagram Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
 
