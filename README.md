@@ -61,8 +61,6 @@
     -Created 2 bar charts to compare between Authentic engagement and Engagement Average for top 10 Countries.
     -Created heatmap to visualize category for each Audience Country.
     -Created a treemap showing top 10 categories by Engagement Average.
-    
-![instagram dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
 
 ## **Yotube**
     -Used WordCloud to visualize diffrent categories.
@@ -90,3 +88,7 @@
     
 
 
+## **Dashboards**
+![Instagram Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
+![Tiktok Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/TikTokDashboard.png)
+![Youtube Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/YoutubeDashBoardpng.png)
