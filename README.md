@@ -1,3 +1,9 @@
+# Objective
+
+    Social Media Analysis on Instagram, TiktTok and YouTube data sets objective is to gain insights into the social media 
+    performance and engagement of a brand or influncer on these platforms .The Analysis can provide valuable information
+    on the audience demographic ,engagement rate,content performance , and overall social media strategy of brand or influncer.
+
 
 ## Documentation
 
