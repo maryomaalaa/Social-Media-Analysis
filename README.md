@@ -9,7 +9,7 @@
 
 1-Problem Definition as you need to understand purpose of your analysis.
 
-## **Instagram**
+##**Instagram**
 
     1-Top categories by followers
     2-Influencers with top followers count
@@ -67,6 +67,12 @@
     -Created 2 bar charts to compare between Authentic engagement and Engagement Average for top 10 Countries.
     -Created heatmap to visualize category for each Audience Country.
     -Created a treemap showing top 10 categories by Engagement Average.
+    
+    
+    
+## **Instagram Dashboard**
+    
+![Instagram Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
 
 ## **Yotube**
     -Used WordCloud to visualize diffrent categories.
@@ -80,8 +86,11 @@
     -Used Bar Chart to visualize Top 5 Countries in Top 5 Countries in Video games.
     -Used Bar Chart to visualize Top 5 Countries in Top 5 Countries in Animation.
     -Created a table to show Trending categories in US.
+    
 
-
+## **Youtube Dashboard**
+    
+![Youtube Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/YoutubeDashBoardpng.png)
 
 ## **TikTok**
     -create a bar plot showing Top 3 Tiktokers with the most Subscribers.
@@ -93,15 +102,8 @@
     -Create a bar plot showing top 3 Tiktokers with the most Shares avg.
     
 
-
-## **Instagram Dashboard**
-    
-![Instagram Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/InstagramDashBoard.png)
-
 ## **Tiktok Dashboard**
     
 ![Tiktok Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/TikTokDashboard.png)
 
-## **Youtube Dashboard**
-    
-![Youtube Dashboard](https://raw.githubusercontent.com/Jannah58/Social-Media-Analysis/zeyadReadme/YoutubeDashBoardpng.png)
+
