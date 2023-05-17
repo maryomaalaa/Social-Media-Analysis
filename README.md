@@ -18,7 +18,7 @@
     5-Top 10 categories with engagement metrics
     6-Top 10 audience countries with engagement metrics
     7-Relation between audience country and category
-    8-top 10 categories by Engagement average
+    8-top 10 categories by Engagement average.
 
 ## **YouTube**
     1-Category Values
